@@ -39,5 +39,9 @@ yarn-error.*
 example
 
 # generated native folders
-/ios
-/android
+android/build/
+android/app/build/
+android/.gradle/
+android/local.properties
+android/*/build/
+modules/fifi-native-screens/android/build/
